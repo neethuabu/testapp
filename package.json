@@ -1,0 +1,14 @@
+{
+  "name": "nonblockingtest",
+  "version": "1.0.0",
+  "description": "example proj",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "5.10.1"
+  },
+  "author": "neethu abu",
+  "license": "ISC"
+}
